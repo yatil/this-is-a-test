@@ -1,7 +1,7 @@
 ---
 title: "Page Title"
-permalink: /link/to/page/
-ref: /link/to/page/
+permalink: /this-is-a-test/
+ref: /this-is-a-test/
 lang: en
 # translators: # Uncomment (remove #) for translations, one - name line per translator.
 # - name: Translator 1
